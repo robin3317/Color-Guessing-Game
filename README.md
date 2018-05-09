@@ -1,6 +1,7 @@
 # Color-Guessing-Game
 A RGB color guessing game - HTML, CSS, JavaScript
 ### See this project as a video : [YouTube](https://youtu.be/qmlPrm7bPz4)
+### Play Online : [Color Guessing Game]( https://robin3317.github.io/Color-Guessing-Game/)
 <img src="image.PNG" width="100%" height="100%"/>
 
 ## Built with
